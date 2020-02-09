@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/brownbaglunch-ma.github.io/static/css/main.6696ad3a.chunk.css",
+    "main.js": "/brownbaglunch-ma.github.io/static/js/main.b98a0983.chunk.js",
+    "main.js.map": "/brownbaglunch-ma.github.io/static/js/main.b98a0983.chunk.js.map",
+    "runtime-main.js": "/brownbaglunch-ma.github.io/static/js/runtime-main.d5f97d20.js",
+    "runtime-main.js.map": "/brownbaglunch-ma.github.io/static/js/runtime-main.d5f97d20.js.map",
+    "static/js/2.b305ca75.chunk.js": "/brownbaglunch-ma.github.io/static/js/2.b305ca75.chunk.js",
+    "static/js/2.b305ca75.chunk.js.map": "/brownbaglunch-ma.github.io/static/js/2.b305ca75.chunk.js.map",
+    "index.html": "/brownbaglunch-ma.github.io/index.html",
+    "precache-manifest.83101569f94487aeca7a0215ec619dbe.js": "/brownbaglunch-ma.github.io/precache-manifest.83101569f94487aeca7a0215ec619dbe.js",
+    "service-worker.js": "/brownbaglunch-ma.github.io/service-worker.js",
+    "static/css/main.6696ad3a.chunk.css.map": "/brownbaglunch-ma.github.io/static/css/main.6696ad3a.chunk.css.map",
+    "static/js/2.b305ca75.chunk.js.LICENSE.txt": "/brownbaglunch-ma.github.io/static/js/2.b305ca75.chunk.js.LICENSE.txt",
+    "static/media/creative.css": "/brownbaglunch-ma.github.io/static/media/bg-masthead.bde300d6.jpg",
+    "static/media/all.min.css": "/brownbaglunch-ma.github.io/static/media/fa-solid-900.d6d8d5da.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5f97d20.js",
+    "static/js/2.b305ca75.chunk.js",
+    "static/css/main.6696ad3a.chunk.css",
+    "static/js/main.b98a0983.chunk.js"
+  ]
+}
