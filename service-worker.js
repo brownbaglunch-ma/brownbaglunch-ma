@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brownbaglunch-ma.github.io/precache-manifest.83101569f94487aeca7a0215ec619dbe.js"
+  "/brownbaglunch-ma.github.io/precache-manifest.8a1f3395b311009655bfc547452ef34c.js"
 );
 
 self.addEventListener('message', (event) => {
