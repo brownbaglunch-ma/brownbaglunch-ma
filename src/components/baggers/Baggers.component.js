@@ -10,7 +10,17 @@ class Baggers extends Component {
   
   render() {
     return (
-      <div>Baggers component</div>
+      <>
+      <header className="masthead">
+        
+      </header>
+
+      <footer className="bg-light py-5">
+          <div className="container">
+              <div className="small text-center text-muted">Copyright &copy; 2020 - Brown Bag Lunch Morocco</div>
+          </div>
+      </footer>
+      </>
     );
   }
 }

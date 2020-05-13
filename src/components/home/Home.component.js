@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Home() {
   
@@ -13,7 +14,7 @@ function Home() {
                 </div>
                 <div className="col-lg-8 align-self-baseline">
                     <p className="text-white-75 font-weight-light mb-5">Invitez les experts de votre ville vous parler de vos sujets préférés pendant le repas de midi.</p>
-                    <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">Trouver des baggers</a>
+                    <Link className="btn btn-primary btn-xl js-scroll-trigger" to="/baggers">Trouver des baggers</Link>
                 </div>
             </div>
         </div>
@@ -26,7 +27,7 @@ function Home() {
                     <h2 className="text-white mt-0">Nous avons ce qu'il vous faut</h2>
                     <hr className="divider light my-4"/>
                     <p className="text-white-50 mb-4">Que vous ayez envie d'apprendre plus sur un sujet avant de vous lancer dedans ou bien avoir l'avis d'un expert sur un sujet bien spécifique pour le prix d'un repas, c'est tout à faire faisable ici :)</p>
-                    <a className="btn btn-light btn-xl js-scroll-trigger" href="#services">Trouver des Baggers</a>
+                    <Link className="btn btn-light btn-xl js-scroll-trigger" to="/baggers">Trouver des baggers</Link>
                 </div>
             </div>
         </div>
